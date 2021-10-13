@@ -1,0 +1,44 @@
+
+
+.myApp {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+background-color: burlywood;
+}
+
+
+
+
+/**nice design styles */
+
+.nice{
+
+  position:absolute;
+  top: 60%;
+  left: -9%;
+  margin: auto;
+  transform: rotate(90deg);
+  bottom: 0;
+  font-family: 'Merienda', cursive;
+
+  letter-spacing: 20px;
+  font-size: 4rem;
+  }
+  .design{
+    position:absolute;
+    top: 45%;
+    right: 14.5%;
+    
+    bottom: 0;
+    font-family: 'Merienda', cursive;
+    transform: rotate(90deg);
+    margin: auto;
+
+    letter-spacing: 20px;
+    font-size: 4rem;
+
+
+  
+  }
