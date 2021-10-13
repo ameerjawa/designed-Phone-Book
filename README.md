@@ -1,10 +1,6 @@
 
 
-<p align="center">
-  QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
-</p>
 
-![quiz-app](https://user-images.githubusercontent.com/48409548/104132046-a39e5b80-539c-11eb-9df3-28d52e499a6c.png)
 
 ## Built with
 
@@ -17,8 +13,10 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/ameerjawa/quiz-app.git
-cd quiz-app
+git clone https://github.com/ameerjawa/designed-Phone-Book
+.git
+cd designed-Phone-Book
+
 ```
 
 Install dependencies:
@@ -48,7 +46,8 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-QuizApp is built and maintained by [ameerjawa](https://ameerjawa.github.io).
+designed-Phone-Book
+ is built and maintained by [ameerjawa](https://ameerjawa.github.io).
 
 ## License
 
